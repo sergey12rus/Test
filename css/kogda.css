@@ -1,0 +1,359 @@
+.soz_bl-1 {
+	width: 100%;/*height: 762px;*/
+		
+}
+.zagolovok {
+	font-size: 30px;
+	text-align: center;
+	padding-top: 37px;
+	padding-bottom: 6px;
+	font-family: 'Noto Serif', serif;
+}
+.title_text {
+	font-size: 16px;
+	text-align: justify;
+	padding-top: 15px;
+	padding-left: 25px;
+	font-family: 'Marmelad', sans-serif;
+	font-weight: 400;
+	text-indent: 20px;
+}
+.text {
+	font-size: 16px;
+	text-align: justify;
+	padding-top: 15px;
+	font-family: 'Marmelad', sans-serif;
+	font-weight: 400;
+}
+.text-zagol {
+	/*text-decoration:underline;*/
+	color: #3E3E3E;
+	font-size: 18px;
+	font-family: 'Noto Serif', serif;
+}
+.foto {
+	padding-top: 15px;
+	margin-left: 64px;
+}
+.zagolovok-2 {
+	font-size: 22px;
+	/* text-align: left; */
+	padding-top: 29px;
+	margin-left: -41px;
+	float: left;
+	font-family: 'Noto Serif', serif;
+}
+.tit_img {
+	height: 61px;
+	width: 67px;
+	background-image: url(../img/istoria/01.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	/*padding-left:20px;*/
+	margin-top: 30px;
+	float: left;
+}
+.pr_prior-text {
+	padding-left: 52px;
+	text-align: justify;
+	padding-top: 15px;
+	font-size: 16px;
+	font-family: 'Marmelad', sans-serif;
+	font-weight: 400;
+	text-indent: 20px;
+}
+.pr_prior-text-2 {
+	text-align: justify;
+	padding-top: 10px;
+	font-size: 16px;
+	font-family: 'Marmelad', sans-serif;
+	font-weight: 400;
+	text-indent: 20px;
+}
+.vexi-title {
+	padding-left: 52px;
+	padding-top: 19px;
+	color: #3E3E3E;
+	font-size: 18px;
+	font-family: 'Noto Serif', serif;
+}
+.vexi-line {
+	height: 1px;
+	width: 70%;
+	background-image: url(../img/istoria/line.png);
+	background-position: center;
+	margin-left: 10%;
+	margin-top: 0px;
+}
+.vexi-kvadrat {
+	height: 28px;
+	width: 28px;
+	background-image: url(../img/istoria/y-1.png);
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	margin-left: 10%;
+}
+.vexi-kvadrat-2 {
+	height: 28px;
+	width: 28px;
+	background-image: url(../img/istoria/y-2.png);
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	margin-left: 10%;
+}
+.vexi-kvadrat-3 {
+	height: 28px;
+	width: 28px;
+	background-image: url(../img/istoria/y-3.png);
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	margin-left: 10%;
+}
+.vexi-kvadrat-4 {
+	height: 28px;
+	width: 28px;
+	background-image: url(../img/istoria/y-4.png);
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	margin-left: 10%;
+}
+.vexi-kvadrat-5 {
+	height: 28px;
+	width: 28px;
+	background-image: url(../img/istoria/y-5.png);
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	margin-left: 10%;
+}
+.vexi-line-text {
+	text-align: left;
+	margin-top: -26px;
+	margin-left: 25px;
+	font-size: 16px;
+	font-family: 'Marmelad', sans-serif;
+	font-weight: 400;
+}
+/*.vexi-line-text h3 {
+	 
+	 float:right;
+	 font-family: 'Marmelad', sans-serif;
+	
+}*/
+
+
+.vexi-line-text div {
+	float: right;
+	/* font-family: 'Marmelad', sans-serif;*/
+	text-height: 22px;
+	font-family: 'Noto Serif', serif;
+	font-weight: 600;
+}
+.tit_img-2 {
+	height: 61px;
+	width: 67px;
+	background-image: url(../img/istoria/02.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	/*padding-left:20px;*/
+	margin-top: 30px;
+	float: left;
+}
+.NPD-contener {
+	height: 300px;
+	width: 100%;
+}
+.NPD-icon-1 {
+	height: 66px;
+	width: 66px;
+	background-image: url(../img/istoria/icon-1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-2 {
+	height: 66px;
+	width: 54px;
+	background-image: url(../img/istoria/icon-2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-3 {
+	height: 66px;
+	width: 75px;
+	background-image: url(../img/istoria/icon-3.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-4 {
+	height: 66px;
+	width: 74px;
+	background-image: url(../img/istoria/icon-4.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-title {
+	text-align: center;
+	padding: 10px;
+	font-size: 16px;
+	font-weight: 600;
+	text-decoration: underline;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.clear-2 {
+	clear: both;
+}
+.tit_img-3 {
+	height: 61px;
+	width: 66px;
+	background-image: url(../img/istoria/03.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	/* padding-left: 20px; */
+	margin-top: 30px;
+	float: left;
+}
+.NPD-icon-5 {
+	height: 66px;
+	width: 48px;
+	background-image: url(../img/istoria/icon-5.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-6 {
+	height: 66px;
+	width: 47px;
+	background-image: url(../img/istoria/icon-6.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-7 {
+	height: 66px;
+	width: 47px;
+	background-image: url(../img/istoria/icon-7.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-8 {
+	height: 66px;
+	width: 48px;
+	background-image: url(../img/istoria/icon-8.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-9 {
+	height: 66px;
+	width: 71px;
+	background-image: url(../img/istoria/icon-9.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-10 {
+	height: 66px;
+	width: 67px;
+	background-image: url(../img/istoria/icon-10.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-11 {
+	height: 66px;
+	width: 65px;
+	background-image: url(../img/istoria/icon-11.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.NPD-icon-12 {
+	height: 46px;
+	width: 189px;
+	background-image: url(../img/istoria/icon-12.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	margin-top: 35px;
+}
+.padd_blok {
+	padding-bottom: 40px;
+}
+
+@media screen and (max-width: 870px) {
+.foto {
+	padding-top: 15px;
+	margin-left: 24px;
+}
+}
+ @media screen and (max-width: 670px) {
+.vexi-line {
+	width: 89%;
+}
+ }
+ 
+ 
+  @media screen and (max-width: 470px) {
+.vexi-line {
+	width: 89%;
+}
+
+.tit_img-2 {
+    display:none;
+}
+
+.tit_img-1 {
+    display:none;
+}
+
+.tit_img {
+    display:none;
+}
+
+.tit_img-3 {
+    display:none;
+}
+
+
+
+.zagolovok-2 {
+   
+    margin-left: 0px;
+    
+}
+
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

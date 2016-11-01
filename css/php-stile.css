@@ -1,0 +1,88 @@
+@import url(reset.css);
+	.wrapper{
+		width: 600px;
+		margin: 50px auto;
+		padding: 40px 0;
+		border: 2px solid #FF9600;
+		font-family: "PT Sans";
+	}
+		.wrapper p{
+			font-size: 24px;
+			text-align: center;
+			font-weight: 700;
+		}
+    	#application{
+            width: 300px;
+            margin: 0 auto !important;
+        }
+        	#application p{
+        		font-size: 16px;
+        		margin: 5px 0!important;
+        	}
+            #applicationName, #applicationTelephone, #applicationEmail, #send{
+                width: 278px;
+                height: 18px;
+                padding: 13px 10px;
+                margin: 10px 0;
+                border-radius: 3px;
+                border: 2px solid #FF9600;
+                outline: none;
+                color: #3d3d3d;
+            }
+
+        	#mess{
+    			width: 278px;
+    			height: 78px;
+    			border-radius: 3px;
+    			border: 2px solid #FF9600;
+    			padding: 13px 10px;
+    			outline: none;
+        	}
+
+        #applicationName:focus, #applicationTelephone:focus, #applicationEmail:focus, #mess:focus {
+            border: 2px solid #3eb5f1;
+        }
+        
+        .applicationButton{
+            width: 301px;
+            height: 60px;
+            border: none;
+            cursor: pointer;
+            border-radius: 3px;
+            color: #fff;
+            font-size: 18px;
+            outline: none;
+            background: #3eb5f1;
+            margin-top: 10px;
+        }
+        .applicationButton:hover{
+            background:#FF9600;
+        }
+
+    #thanks{
+        text-align: center;
+        margin: 10% auto;
+        width: 60%;
+        border: 2px solid #3eb5f1;
+        padding-bottom: 20px;
+    }
+        #thanks h1{
+            font-size: 30px;
+            color: #3eb5f1;
+            padding: 20px 0;
+        }
+        #thanks p{
+            font-size: 18px;
+            color: #3eb5f1;
+        }
+        .Pthanks{
+            font-size: 18px;
+            color: #3d3d3d;
+            padding-bottom: 20px;
+        }
+            #thanks a{
+                display: block;
+                margin-top: 20px;
+                color:#3eb5f1;
+                font-size: 18px;
+            }
